@@ -1,1 +1,0 @@
-D:\Code Git\Phoneword\Phoneword\Phoneword.UWP\Phoneword.UWP.csproj;x86
