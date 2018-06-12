@@ -42,7 +42,7 @@ namespace Phoneword
                     callHistoryButton.IsEnabled = true;
                     dialer.Dial(translatedNumber);
                 }
-                   
+
             }
         }
 
@@ -79,6 +79,11 @@ namespace Phoneword
         async void btnHslColorScrollPage_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new HslColorScrollPage());
+        }
+
+        async void btnKeypadPage_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new KeypadPage());
         }
     }
 }

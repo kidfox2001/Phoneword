@@ -32,6 +32,8 @@
           Clicked="btnClockPage_Clicked"  />
             <Button x:Name="btnHslColorScrollPage" Text="Call Test HslColorScrollPage" IsEnabled="True"
            Clicked="btnHslColorScrollPage_Clicked"/>
+            <Button x:Name="btnKeypadPage" Text="Call Test KeypadPage" IsEnabled="True"
+           Clicked="btnKeypadPage_Clicked"/>
         </StackLayout>
     </ScrollView>
 
