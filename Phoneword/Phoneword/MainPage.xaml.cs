@@ -65,5 +65,20 @@ namespace Phoneword
         {
             await Navigation.PushAsync(new TestListViewPage());
         }
+
+        async void btnSliderPage_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new SliderPage());
+        }
+
+        async void btnClockPage_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new ClockPage());
+        }
+
+        async void btnHslColorScrollPage_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new HslColorScrollPage());
+        }
     }
 }

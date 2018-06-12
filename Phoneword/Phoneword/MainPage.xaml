@@ -8,21 +8,31 @@
             <On Platform="Android, UWP" Value="20" />
         </OnPlatform>
     </ContentPage.Padding>
-    <StackLayout VerticalOptions="FillAndExpand"
+    <ScrollView>
+        <StackLayout VerticalOptions="FillAndExpand"
              HorizontalOptions="FillAndExpand"
              Orientation="Vertical"
-             Spacing="15">
-        <Label Text="Enter a Phoneword:" />
-        <Entry x:Name="phoneNumberText" Text="1-855-XAMARIN" />
-        <Button x:Name="translateButon" Text="Translate" Clicked="OnTranslate" />
-        <Button x:Name="callButton" Text="Call" IsEnabled="false" Clicked="OnCall" />
-        <Button x:Name="callHistoryButton" Text="Call History" IsEnabled="false"
+             Spacing="15"
+                 >
+            <Label Text="Enter a Phoneword:" />
+            <Entry x:Name="phoneNumberText" Text="1-855-XAMARIN" />
+            <Button x:Name="translateButon" Text="Translate" Clicked="OnTranslate" />
+            <Button x:Name="callButton" Text="Call" IsEnabled="false" Clicked="OnCall" />
+            <Button x:Name="callHistoryButton" Text="Call History" IsEnabled="false"
           Clicked="OnCallHistory" />
-        <Button x:Name="btnTest" Text="Call Test vertically  Page" IsEnabled="True"
+            <Button x:Name="btnTest" Text="Call Test vertically  Page" IsEnabled="True"
           Clicked="OnCallTestPage" />
-        <Button x:Name="btnTestHorizontal" Text="Call Test Horizontal Page" IsEnabled="True"
+            <Button x:Name="btnTestHorizontal" Text="Call Test Horizontal Page" IsEnabled="True"
           Clicked="OnCallTestHorizontalPage" />
-        <Button x:Name="btnTestListView" Text="Call Test ListView Page" IsEnabled="True"
+            <Button x:Name="btnTestListView" Text="Call Test ListView Page" IsEnabled="True"
           Clicked="OnCallTestListViewPage" />
-    </StackLayout>
+            <Button x:Name="btnSliderPage" Text="Call Test Slider Page" IsEnabled="True"
+          Clicked="btnSliderPage_Clicked"  />
+            <Button x:Name="btnClockPage" Text="Call Test ClockPage" IsEnabled="True"
+          Clicked="btnClockPage_Clicked"  />
+            <Button x:Name="btnHslColorScrollPage" Text="Call Test HslColorScrollPage" IsEnabled="True"
+           Clicked="btnHslColorScrollPage_Clicked"/>
+        </StackLayout>
+    </ScrollView>
+
 </ContentPage>
