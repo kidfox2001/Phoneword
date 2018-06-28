@@ -4,7 +4,9 @@
              x:Class="Phoneword.SliderPage">
     <ContentPage.Content>
         <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <!--เขียน bind แบบที่่ 1-->
             <BoxView Color="Green" Opacity="{ Binding Source={x:Reference slider} ,Path=Value}"></BoxView>
+            <!--เขียน bind แบบที่่ 2-->
             <Label BindingContext="{x:Reference slider}"
                 Text="{Binding Value
                 ,StringFormat='value is {0:f2}'}"  

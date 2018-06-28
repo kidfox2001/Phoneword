@@ -16,7 +16,10 @@ namespace Phoneword
 		public ClockPage ()
 		{
 			InitializeComponent ();
-		}
+
+            
+
+        }
 	}
 
     class ClockViewModel : INotifyPropertyChanged

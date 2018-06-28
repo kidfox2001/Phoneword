@@ -4,6 +4,7 @@
              xmlns:local="clr-namespace:Phoneword"
              x:Class="Phoneword.HslColorScrollPage"
              Title="HSL Color Scroll Page">
+    <!--ผูกกับ class HslViewModel กำหนดค่าเริ่มต้น color-->
     <ContentPage.BindingContext>
         <local:HslViewModel Color="Aqua" />
     </ContentPage.BindingContext>

@@ -59,16 +59,19 @@ namespace Phoneword
             new PageDataViewModel(typeof(TestListViewPage), "Call TestListViewPage",
                                   "Interact with a Slider and Button"),
 
-              new PageDataViewModel(typeof(SliderPage), "Call SliderPage",
+            new PageDataViewModel(typeof(SliderPage), "Call SliderPage",
                                   "SliderPage"),
 
-         new PageDataViewModel(typeof(ClockPage), "Call ClockPage",
+            new PageDataViewModel(typeof(ClockPage), "Call ClockPage",
                                   "ClockPage"),
-         new PageDataViewModel(typeof(HslColorScrollPage), "Call HslColorScrollPage",
+            new PageDataViewModel(typeof(HslColorScrollPage), "Call HslColorScrollPage",
                                   "HslColorScrollPage"),
 
             new PageDataViewModel(typeof(KeypadPage), "Call KeypadPage",
-            "KeypadPage")
+                                   "KeypadPage"),
+
+            new PageDataViewModel(typeof(TodoRestPage), "Call TodoRestPage",
+            "TodoRestPage")
 
         };
         }

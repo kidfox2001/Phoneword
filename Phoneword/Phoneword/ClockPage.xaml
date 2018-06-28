@@ -5,7 +5,8 @@
              x:Class="Phoneword.ClockPage"
              Title="Clock Page">
     
-    <Label Text="{Binding DateTime, StringFormat='{0:T}'}"
+    <!--<Label Text="{Binding DateTime, StringFormat='{0:T}'}"-->
+    <Label Text="{Binding DateTime}"
            FontSize="Large"
            HorizontalOptions="Center"
            VerticalOptions="Center">
