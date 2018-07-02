@@ -53,6 +53,9 @@ namespace Phoneword
             All = new List<PageDataViewModel>
         {
             // Part 1. Getting Started with XAML
+             new PageDataViewModel(typeof(MainPage), "Old  Page",
+                                  "Old page"),
+
             new PageDataViewModel(typeof(TestHorizontalPage), "Call Testvertically  Page",
                                   "Display a Label with many properties set"),
 
@@ -72,6 +75,12 @@ namespace Phoneword
 
             new PageDataViewModel(typeof(TodoRestPage), "Call TodoRestPage",
             "TodoRestPage")
+
+             ,new PageDataViewModel(typeof(BindingModePage), "Call BindingModePage",
+            "BindingModePage")
+
+             ,new PageDataViewModel(typeof(QrcodePage), "Call QrcodePage",
+            "QrcodePage")
 
         };
         }

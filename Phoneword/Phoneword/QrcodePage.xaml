@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Phoneword.QrcodePage">
+    <ContentPage.Content>
+        <StackLayout Spacing="10">
+            <Button x:Name="btnScan" Text="click" Clicked="btnScan_Clicked"></Button>
+            <Entry x:Name="txtShow" Placeholder="Text Do Scan"></Entry>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
