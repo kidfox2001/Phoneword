@@ -7,3 +7,27 @@ D:\Job\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.Assembly
 D:\Job\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
 D:\Job\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
 D:\Job\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
+D:\Code Git\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+D:\Code Git\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+D:\Code Git\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csprojAssemblyReference.cache
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\BindingModePage.xaml.g.cs
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\CallHistoryPage.xaml.g.cs
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\ClockPage.xaml.g.cs
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\HslColorScrollPage.xaml.g.cs
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\KeypadPage.xaml.g.cs
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\MainPage2.xaml.g.cs
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\QrcodePage.xaml.g.cs
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\SliderPage.xaml.g.cs
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\TestHorizontalPage.xaml.g.cs
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\TestListViewPage.xaml.g.cs
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\TestPage1.xaml.g.cs
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\TodoRestPage.xaml.g.cs
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+D:\Code Git\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
